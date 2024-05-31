@@ -9,4 +9,8 @@ that I will be working on with my group for our end of the intership project. It
 
 On top of getting to know my mentors and teammates, I also learn the boot camp of Python coding, coding with NmPy and Pandas, and with Git and Github. It was at 1st, confusing from the fast pace learning we are doing within our 1/10 weeks here that I got some coding wrong. But after talking with out with the aid of peers, I think Im starting to get the grasp of it even more. Ill give a week 2 update by next friday, see you till then.
 
+from,
+
+A.G.
+
 [Back](./)
