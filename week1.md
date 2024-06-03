@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Asaiahya Green
+author: Asaiahya Green
 ---
 
 During the first week, I met with my mentee Ms. Blessings via zoom and my mentors to discuss the project 
