@@ -2,19 +2,11 @@
 
 mBot Neo
 
-Problem: Plants face numerous threats such as weather conditions, pests, and nutrient
-deficiencies, leading to diseases. 
+Problem: Plants are extremely vulnerable to challenging weather conditions as they are sessile, not like animals and they develop diseases due to deficiencies of water and minerals, salinity and stress, constant threats of insects and pests, and above all the variable climatic factors. All these factors together or the change of a single factor can cause pathophysiology leading to plant diseases
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - Understanding plant leaf diseases and detection methods.
-  - Acquiring and preprocessing image datasets.
-  - Implementing CNNs for image classification.
-  - Training and fine-tuning the model.
-  - Developing the web application.
-  - 
+Approach: Early detection of plant diseases and proper usage of pesticides and fertilizers are vital for preventing diseases and boosting yield. Most farmers use generalized pesticides and fertilizers in entire fields without specifically knowing the condition of the plants. Therefore, it’s imperative to detect plant diseases without human interaction. Our approach is to generalize the prediction of plant disease detection process to multiple classes of species so that it becomes an effective tool for farmers and agriculturists.  
 
-Expected Outcome: The project is expected to result into develop an automated, species-generalized disease detection system for
-farmers.
+Expected Outcome: At the end of this project, we will use various ML models like CNN, YOLO, and a few more to detect plant leaf disease, classify them, and also allow the machine to proffer the right treatment for each disease detected. We will build a web app where farmers or agriculturists can upload pictures of the diseased plants and get responses regarding the type of disease and the best treatment for them.
 
 
