@@ -4,7 +4,11 @@ title: Week 3
 author: Asaiahya Green
 ---
 
+For week 3 of CEAMLS, we had a time in one of our research days where we got a spokesperson to present to us before lunch. Ms. Washington presented to use about her project of the AAE project. It's also known as African American Venecular English Project where they are trainging the AI to be able to understand black and brown language. It is an ongoing project since she working with Google currently. 
 
+For our field trip to the John Hopkins APL, it was an interesting trip. We were not able to see more of what they do face to face however, much to my slight disappointment. We were given presentations about the things that they do. Only a few of these presentations allow for us to see or interact with the products they created AI as a usefull asset for providing aid for humans. The most interesting part of the field trip is the robot-dog and the AI app that can use description and drawing to make a picture. 
+
+I was a interesting week in general. I will post week 4 fairly soon. Untill then, have a nice Friday.
  
   From, AG
 [Back](./)
