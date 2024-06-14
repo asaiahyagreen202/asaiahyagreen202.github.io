@@ -8,7 +8,7 @@ For week 3 of CEAMLS, we had a time in one of our research days where we got a s
 
 For our field trip to the John Hopkins APL, it was an interesting trip. We were not able to see more of what they do face to face however, much to my slight disappointment. We were given presentations about the things that they do. Only a few of these presentations allow for us to see or interact with the products they created AI as a useful asset for providing aid for humans. The most interesting part of the field trip is the robot-dog and the AI app that can use description and drawing to make a picture. 
 
-I was a interesting week in general. I will post week 4 fairly soon. Until then, have a nice Friday.
+In Lab, we finished up working on NumPy and started to work on Panda. My group also learned a bit more on how OpenCV works by testing it out on Google Colabs. It was a interesting week in general. I will post week 4 fairly soon. Until then, have a nice Friday.
  
   From, AG
   
