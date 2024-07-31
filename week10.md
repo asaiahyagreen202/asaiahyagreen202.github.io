@@ -1,5 +1,5 @@
 ---
-layout: FINAL Post
+layout: post(Final Entry)
 title: Week 10
 author: Asaiahya Green
 ---
