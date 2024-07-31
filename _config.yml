@@ -1,6 +1,8 @@
 title: Asaiahya Green CEAMLS SAIRI Website Summer 2024 
 logo: MYA03777.jpg
-description: Hi! My name is Asaiahya Green and this is my CEAMLS SAIRI Website for Summer 2024.
+description: Hello viewers! My name is Asaiahya Green and this is my CEAMLS SAIRI Website for Summer 2024.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
