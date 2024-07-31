@@ -10,4 +10,5 @@ Signing out for the final farewell...from,
 
 A.G. aka Asaiahya Green aka Sisi
 
-[Back](./my-blog.md)
+[Back to Blog](./my-blog.md)
+[Back to Home](./)
