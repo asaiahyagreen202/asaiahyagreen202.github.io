@@ -10,4 +10,4 @@ Signing out for the final farewell...from,
 
 A.G. aka Asaiahya Green aka Sisi
 
-[Back](./)
+[Back](./my-blog.md)
